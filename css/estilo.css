@@ -1,0 +1,23 @@
+/* Configuracao do topo*/
+.bg-topo{
+    background-color: #2b170f;
+}
+
+.btn-menu{
+    
+    background: none;
+    position: relative;
+    color: #fff;
+    z-index: 1;
+    
+    height: 100%;
+}
+
+.btn-menu:hover{
+    color: #68627a;
+    background: rgb(78, 63, 63);
+    border-color: #fff;
+    transition: all .50s ease-in-out;
+    -moz-transition: all .50s ease-in-out;
+    -webkit-transition: all .50s ease-in-out;
+}
